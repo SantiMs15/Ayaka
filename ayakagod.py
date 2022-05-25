@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 import googletrans
 import lightbulb
 import hikari
@@ -17,10 +16,4 @@ async def Translate(ctx):
     await ctx.respond('On it!')
 
 bot.run()
-=======
-import hikari
 
-bot = hikari.GatewayBot(token='OTc4ODMzOTIzODcyMjcyMzg0.GowF-e.xaQLY98OToMZf-lzXVHdOcE0_sH9VVF0HZujO8')
-bot.run()
-
->>>>>>> 3110551879be21ddc4e8f51ca08a3cddda81360d
